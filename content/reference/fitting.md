@@ -593,7 +593,7 @@ The charges will typically last about a minute, then take another minute to relo
 if the fight isn't concluded by the time the module goes on reload, 
 the pilot using it may be in trouble.
 
-As active armor repairers don't show your ship down, unlike armor plates,
+As active armor repairers don't slow your ship down, unlike armor plates,
 active tanks are a more common option for kiting armor fits than buffer tanks.
 
 Active-tanking is more common in solo PvP and small gangs,
