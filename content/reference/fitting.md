@@ -557,7 +557,7 @@ is not shut off by Warp Scramblers and helps them evade fire.
 
 ##### Scram-Kiting
 
-At the frigate/destroyer level, some pilots will emply a sort of hybrid of kiting and brawling
+At the frigate/destroyer level, some pilots will employ a sort of hybrid of kiting and brawling
 known as "scram-kiting".
 
 The core of scram-kiting is to hold your enemy at the very edge of Warp Scrambler range,
@@ -578,7 +578,7 @@ against a scram-kiter, so the practice is less common outside of frigates and de
 ##### Active-Tank
 
 Active-tanking in PvP can be a risky business, but if you choose your fights appropriately,
-it can leave your opponent helpful to inflict meaningful damage on you
+it can leave your opponent helpless to inflict meaningful damage on you
 as you pick their ship apart.
 
 As in PvE, the core of the active tank is an Armor Repairer or Shield Booster,
